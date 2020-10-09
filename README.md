@@ -30,13 +30,7 @@ A live version is available [here](https://nidhisahu7.github.io/Logicgates/).
 * git
 ```bash
 sudo apt-get install git
-```
-
-### Clone the repository
-
-```bash
-git clone https://github.com/drendog/Logic-Circuit-Simulator.git
-```
+``` 
 
 ### Serve it on local
 
