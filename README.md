@@ -59,7 +59,7 @@ Code documentation and everything.
 
 ## Author
 
-👤 **[drendog](https://github.com/drendog)**
+👤 **[nidhisahu](https://github.com/nidhisahu7)**
 
 ## License
 
